@@ -82,7 +82,6 @@ When citing this work please use the following citation:
   year         = {2025},
   pages        = {883--887},
   address      = {Dublin, Ireland},
-  url = {https://drive.google.com/uc?export=download&id=1VBBaTHNfWV4aRYQXc6iJ43pGHRhOBydR},
-  urldate = {2025-11-17},
+  doi          = {10.48550/arXiv.2511.15652},
 }
 ```
